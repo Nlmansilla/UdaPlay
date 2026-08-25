@@ -1,19 +1,22 @@
-# README Template
+# UdaPlay - Nicolas Mansilla
 
-Below is a template provided for use when building your README file for students.
-
-# Project Title
-
-Project description goes here.
+Project presented as resolution of the "UdaPlay - An AI Research Agent for the Video Game Industry". 
 
 ## Getting Started
 
-Instructions for how to get a copy of the project running on your local machine.
+This project uses uv as package manager [(uv docs)](https://docs.astral.sh/uv/). The dependencies list is written in the file ./requirements.txt. So the dependencies can be installed using the command `uv pip install -r requirements.txt`.
+
+Alternatively, you can use `pip` as your regular package manager.
+
 
 ### Dependencies
 
 ```
-Examples here
+chromadb>=1.0.4
+openai>=1.73.0
+pydantic>=2.11.3
+python-dotenv>=1.1.0
+tavily-python>=0.5.4
 ```
 
 ### Installation

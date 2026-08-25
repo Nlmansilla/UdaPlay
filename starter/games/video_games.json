@@ -1,0 +1,1586 @@
+[
+  {
+    "Name": "Wii Sports",
+    "Platform": "Wii",
+    "Genre": "Sports",
+    "Publisher": "Nintendo",
+    "Description": "A collection of five sports — tennis, baseball, golf, bowling and boxing — designed to showcase Wii motion controls. Players use Miis and can compete or practice to improve their skills.",
+    "YearOfRelease": 2006
+  },
+  {
+    "Name": "Super Mario Bros.",
+    "Platform": "NES",
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "Description": "Mario and Luigi travel through the Mushroom Kingdom, jumping across platforms, avoiding enemies and overcoming obstacles to rescue Princess Peach from Bowser.",
+    "YearOfRelease": 1985
+  },
+  {
+    "Name": "Mario Kart Wii",
+    "Platform": "Wii",
+    "Genre": "Racing",
+    "Publisher": "Nintendo",
+    "Description": "A kart racing game featuring Nintendo characters, offensive and defensive items, and varied tracks. It introduces motion controls and supports multiplayer races.",
+    "YearOfRelease": 2008
+  },
+  {
+    "Name": "Wii Sports Resort",
+    "Platform": "Wii",
+    "Genre": "Sports",
+    "Publisher": "Nintendo",
+    "Description": "A collection of sports activities set on a tropical island. It uses Wii MotionPlus for greater precision in sports such as swordplay, tennis, golf, bowling, archery and cycling.",
+    "YearOfRelease": 2009
+  },
+  {
+    "Name": "Pokemon Red/Pokemon Blue",
+    "Platform": "GB",
+    "Genre": "Role-Playing",
+    "Publisher": "Nintendo",
+    "Description": "A Pokémon RPG set in the Kanto region. Players catch and train creatures, battle other trainers and aim to complete the Pokédex while facing Team Rocket.",
+    "YearOfRelease": 1996
+  },
+  {
+    "Name": "Tetris",
+    "Platform": "GB",
+    "Genre": "Puzzle",
+    "Publisher": "Nintendo",
+    "Description": "A classic puzzle game in which players arrange pieces of different shapes to complete lines and prevent the board from filling up. The Game Boy version helped popularize the game as a handheld title.",
+    "YearOfRelease": 1989
+  },
+  {
+    "Name": "New Super Mario Bros.",
+    "Platform": "DS",
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "Description": "A 2D platforming adventure that returns to classic Mario gameplay. Players travel through the Mushroom Kingdom, defeat enemies, find secrets and rescue Peach.",
+    "YearOfRelease": 2006
+  },
+  {
+    "Name": "Wii Play",
+    "Platform": "Wii",
+    "Genre": "Misc",
+    "Publisher": "Nintendo",
+    "Description": "A collection of minigames designed to teach and showcase the capabilities of the Wii Remote. It includes activities such as shooting, Mii searching and table tennis for one or more players.",
+    "YearOfRelease": 2006
+  },
+  {
+    "Name": "New Super Mario Bros. Wii",
+    "Platform": "Wii",
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "Description": "A side-scrolling platformer in which Mario and his allies travel through eight worlds to rescue Peach. It supports up to four simultaneous players.",
+    "YearOfRelease": 2009
+  },
+  {
+    "Name": "Duck Hunt",
+    "Platform": "NES",
+    "Genre": "Shooter",
+    "Publisher": "Nintendo",
+    "Description": "A NES shooting game in which players use the Zapper light gun to shoot ducks appearing on screen. It also includes a mode featuring flying targets.",
+    "YearOfRelease": 1984
+  },
+  {
+    "Name": "Nintendogs",
+    "Platform": "DS",
+    "Genre": "Simulation",
+    "Publisher": "Nintendo",
+    "Description": "A Nintendo DS pet simulation game. Players adopt, feed, care for, train and walk dogs using the touchscreen and microphone, while also entering competitions.",
+    "YearOfRelease": 2005
+  },
+  {
+    "Name": "Mario Kart DS",
+    "Platform": "DS",
+    "Genre": "Racing",
+    "Publisher": "Nintendo",
+    "Description": "A kart racing game featuring Nintendo characters, 32 tracks and modes such as Grand Prix, Time Trial, Versus, Battle and Missions. It combines classic and new tracks and items.",
+    "YearOfRelease": 2005
+  },
+  {
+    "Name": "Pokemon Gold/Pokemon Silver",
+    "Platform": "GB",
+    "Genre": "Role-Playing",
+    "Publisher": "Nintendo",
+    "Description": "A Pokémon RPG primarily set in the Johto region. Players catch and train creatures, explore new routes and cities, challenge Gym Leaders and discover new Pokémon.",
+    "YearOfRelease": 1999
+  },
+  {
+    "Name": "Wii Fit",
+    "Platform": "Wii",
+    "Genre": "Sports",
+    "Publisher": "Nintendo",
+    "Description": "A Wii fitness program built around the Wii Balance Board. It includes yoga, strength, aerobics and balance activities, combining workouts with minigames.",
+    "YearOfRelease": 2007
+  },
+  {
+    "Name": "Wii Fit Plus",
+    "Platform": "Wii",
+    "Genre": "Sports",
+    "Publisher": "Nintendo",
+    "Description": "An expanded version of Wii Fit with more than 60 activities and training options. It uses the Wii Balance Board for yoga, strength, aerobics and balance exercises.",
+    "YearOfRelease": 2009
+  },
+  {
+    "Name": "Kinect Adventures!",
+    "Platform": "X360",
+    "Genre": "Misc",
+    "Publisher": "Microsoft Game Studios",
+    "Description": "A collection of 20 Kinect-controlled adventures. Players jump, dodge and move to navigate rapids, obstacle courses and underwater environments without a traditional controller.",
+    "YearOfRelease": 2010
+  },
+  {
+    "Name": "Grand Theft Auto V",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Publisher": "Take-Two Interactive",
+    "Description": "An open-world action game set in Los Santos. Three protagonists become involved in robberies and criminal activities while exploring a large city and its surrounding areas.",
+    "YearOfRelease": 2013
+  },
+  {
+    "Name": "Super Mario World",
+    "Platform": "SNES",
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "Description": "A platforming adventure for SNES in which Mario explores Dinosaur Land to rescue Peach. It introduces Yoshi, new power-ups and a large map with alternative routes and secrets.",
+    "YearOfRelease": 1990
+  },
+  {
+    "Name": "Brain Age: Train Your Brain in Minutes a Day",
+    "Platform": "DS",
+    "Genre": "Misc",
+    "Publisher": "Nintendo",
+    "Description": "A collection of mental exercises for Nintendo DS focused on calculation, memory, reading and logic. It is designed for short sessions and tracks the player's progress.",
+    "YearOfRelease": 2005
+  },
+  {
+    "Name": "Pokemon Diamond/Pokemon Pearl",
+    "Platform": "DS",
+    "Genre": "Role-Playing",
+    "Publisher": "Nintendo",
+    "Description": "A Pokémon RPG set in the Sinnoh region. Players catch and train creatures, challenge Gym Leaders and face Team Galactic while seeking to become Champion.",
+    "YearOfRelease": 2006
+  },
+  {
+    "Name": "Super Mario Land",
+    "Platform": "GB",
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "Description": "Mario's first handheld adventure. The hero travels across Sarasaland to rescue Princess Daisy from Tatanga, combining traditional platforming with scrolling and vehicle-based stages.",
+    "YearOfRelease": 1989
+  },
+  {
+    "Name": "Super Mario Bros. 3",
+    "Platform": "NES",
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "Description": "A platforming adventure in which Mario and Luigi travel across several worlds to defeat Bowser and rescue Peach. It introduces suits, maps, power-ups and many secret-filled levels.",
+    "YearOfRelease": 1988
+  },
+  {
+    "Name": "Grand Theft Auto V",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Publisher": "Take-Two Interactive",
+    "Description": "An open-world action game set in Los Santos. Three protagonists become involved in robberies and criminal activities while exploring a large city and its surrounding areas.",
+    "YearOfRelease": 2013
+  },
+  {
+    "Name": "Pokemon Ruby/Pokemon Sapphire",
+    "Platform": "GBA",
+    "Genre": "Role-Playing",
+    "Publisher": "Nintendo",
+    "Description": "A Pokémon RPG set in Hoenn. Players catch and train creatures, explore routes and cities, challenge Gym Leaders and confront rival criminal teams.",
+    "YearOfRelease": 2002
+  },
+  {
+    "Name": "Pokemon Black/Pokemon White",
+    "Platform": "DS",
+    "Genre": "Role-Playing",
+    "Publisher": "Nintendo",
+    "Description": "A Pokémon RPG set in the Unova region. Players catch Pokémon, challenge Gyms and face Team Plasma while exploring a story focused on the relationship between humans and Pokémon.",
+    "YearOfRelease": 2010
+  },
+  {
+    "Name": "Brain Age 2: More Training in Minutes a Day",
+    "Platform": "DS",
+    "Genre": "Puzzle",
+    "Publisher": "Nintendo",
+    "Description": "A sequel to Brain Age featuring new memory, calculation, language and logic exercises. Activities are designed for short sessions and allow players to track performance.",
+    "YearOfRelease": 2005
+  },
+  {
+    "Name": "Call of Duty: Modern Warfare 3",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "Description": "A first-person shooter continuing the Modern Warfare story. Its campaign follows special forces in a global conflict against Makarov, alongside Special Ops and competitive multiplayer.",
+    "YearOfRelease": 2011
+  },
+  {
+    "Name": "Pokémon Yellow: Special Pikachu Edition",
+    "Platform": "GB",
+    "Genre": "Role-Playing",
+    "Publisher": "Nintendo",
+    "Description": "An RPG based on Pokémon Red and Blue in which Pikachu is the player's starting companion. The adventure explores Kanto and adds elements inspired by the anime.",
+    "YearOfRelease": 1998
+  },
+  {
+    "Name": "Call of Duty: Black Ops",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "Description": "A first-person shooter set during the Cold War. Agent Alex Mason takes part in covert operations while trying to reconstruct his memories. It includes campaign, multiplayer and Zombies modes.",
+    "YearOfRelease": 2010
+  },
+  {
+    "Name": "Pokemon X/Pokemon Y",
+    "Platform": "3DS",
+    "Genre": "Role-Playing",
+    "Publisher": "Nintendo",
+    "Description": "A Pokémon RPG set in the Kalos region. Players catch and train creatures, challenge Gyms and face Team Flare. It introduces 3D graphics, new Pokémon and Mega Evolution.",
+    "YearOfRelease": 2013
+  },
+  {
+    "Name": "Call of Duty: Black Ops 3",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "Description": "A futuristic first-person shooter set during a technologically advanced conflict. It includes a cooperative campaign, competitive multiplayer and a dedicated Zombies mode.",
+    "YearOfRelease": 2015
+  },
+  {
+    "Name": "Call of Duty: Black Ops II",
+    "Platform": "PS3",
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "Description": "A first-person shooter whose story alternates between the Cold War and a near future. Player decisions can change events and outcomes throughout the campaign.",
+    "YearOfRelease": 2012
+  },
+  {
+    "Name": "Call of Duty: Black Ops II",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "Description": "A first-person shooter whose story alternates between the Cold War and a near future. Player decisions can change events and outcomes throughout the campaign.",
+    "YearOfRelease": 2012
+  },
+  {
+    "Name": "Call of Duty: Modern Warfare 2",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "Description": "A first-person shooter continuing Modern Warfare. Its cinematic campaign follows special forces in an international war, alongside Special Ops and competitive multiplayer.",
+    "YearOfRelease": 2009
+  },
+  {
+    "Name": "Call of Duty: Modern Warfare 3",
+    "Platform": "PS3",
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "Description": "A first-person shooter continuing the Modern Warfare story. Its campaign follows special forces in a global conflict against Makarov, alongside Special Ops and competitive multiplayer.",
+    "YearOfRelease": 2011
+  },
+  {
+    "Name": "Super Smash Bros. Brawl",
+    "Platform": "Wii",
+    "Genre": "Fighting",
+    "Publisher": "Nintendo",
+    "Description": "A crossover fighting game featuring Nintendo characters. It supports up to four players, interactive stages, numerous modes and the story-driven Subspace Emissary.",
+    "YearOfRelease": 2008
+  },
+  {
+    "Name": "Call of Duty: Black Ops",
+    "Platform": "PS3",
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "Description": "A first-person shooter set during the Cold War. Agent Alex Mason takes part in covert operations while trying to reconstruct his memories. It includes campaign, multiplayer and Zombies modes.",
+    "YearOfRelease": 2010
+  },
+  {
+    "Name": "Animal Crossing: Wild World",
+    "Platform": "DS",
+    "Genre": "Simulation",
+    "Publisher": "Nintendo",
+    "Description": "A life simulation game in which the player moves into a village inhabited by animals. Players can decorate their home, fish, collect items, join events and interact with neighbors.",
+    "YearOfRelease": 2005
+  },
+  {
+    "Name": "Mario Kart 7",
+    "Platform": "3DS",
+    "Genre": "Racing",
+    "Publisher": "Nintendo",
+    "Description": "A kart racing game for Nintendo 3DS featuring 32 tracks, vehicle customization and new aerial and underwater sections. It supports local and online multiplayer.",
+    "YearOfRelease": 2011
+  },
+  {
+    "Name": "Halo 3",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Publisher": "Microsoft Game Studios",
+    "Description": "A first-person shooter continuing the war between humanity and the Covenant. Master Chief returns to defend Earth and stop the alien threat.",
+    "YearOfRelease": 2007
+  },
+  {
+    "Name": "Grand Theft Auto V",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Publisher": "Take-Two Interactive",
+    "Description": "An open-world action game set in Los Santos. Three protagonists become involved in robberies and criminal activities while exploring a large city and its surrounding areas.",
+    "YearOfRelease": 2014
+  },
+  {
+    "Name": "Pokemon HeartGold/Pokemon SoulSilver",
+    "Platform": "DS",
+    "Genre": "Action",
+    "Publisher": "Nintendo",
+    "Description": "Remakes of Pokémon Gold and Silver set in Johto and Kanto. They feature updated graphics and new features, including the ability to have a Pokémon follow the player.",
+    "YearOfRelease": 2009
+  },
+  {
+    "Name": "Super Mario 64",
+    "Platform": "N64",
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "Description": "A 3D platforming adventure in which Mario explores Peach's castle and different worlds to collect Power Stars and defeat Bowser.",
+    "YearOfRelease": 1996
+  },
+  {
+    "Name": "Super Mario Galaxy",
+    "Platform": "Wii",
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "Description": "A 3D platforming adventure set across galaxies and small planets with different gravity effects. Mario uses special suits and abilities to collect Power Stars and rescue Peach.",
+    "YearOfRelease": 2007
+  },
+  {
+    "Name": "Pokemon Omega Ruby/Pokemon Alpha Sapphire",
+    "Platform": "3DS",
+    "Genre": "Role-Playing",
+    "Publisher": "Nintendo",
+    "Description": "Remakes of Pokémon Ruby and Sapphire for 3DS. Players explore Hoenn, catch Pokémon, challenge Gyms and confront criminal teams, with features such as Mega Evolution.",
+    "YearOfRelease": 2014
+  },
+  {
+    "Name": "Super Mario Land 2: 6 Golden Coins",
+    "Platform": "GB",
+    "Genre": "Adventure",
+    "Publisher": "Nintendo",
+    "Description": "A sequel to Super Mario Land in which Mario must reclaim his island from Wario. It expands the formula with new worlds, power-ups and a more open exploration structure.",
+    "YearOfRelease": 1992
+  },
+  {
+    "Name": "Grand Theft Auto IV",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Publisher": "Take-Two Interactive",
+    "Description": "The story of Niko Bellic, an immigrant arriving in Liberty City seeking a new life who becomes involved with criminals and con artists. It offers a large open world with missions and activities.",
+    "YearOfRelease": 2008
+  },
+  {
+    "Name": "Gran Turismo",
+    "Platform": "PS",
+    "Genre": "Racing",
+    "Publisher": "Sony Computer Entertainment",
+    "Description": "A driving simulator focused on real cars, tracks and competition. It offers numerous events, vehicles and progression options for players seeking a more realistic driving experience.",
+    "YearOfRelease": 1997
+  },
+  {
+    "Name": "Super Mario 3D Land",
+    "Platform": "3DS",
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "Description": "A platforming adventure combining elements of 2D and 3D Mario games. Mario travels through compact worlds, overcomes obstacles and uses power-ups such as the Tanooki Suit.",
+    "YearOfRelease": 2011
+  },
+  {
+    "Name": "Gran Turismo 5",
+    "Platform": "PS3",
+    "Genre": "Racing",
+    "Publisher": "Sony Computer Entertainment",
+    "Description": "A driving simulator featuring a large selection of vehicles and tracks. It offers races, championships and driving modes focused on a realistic experience.",
+    "YearOfRelease": 2010
+  },
+  {
+    "Name": "Call of Duty: Modern Warfare 2",
+    "Platform": "PS3",
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "Description": "A first-person shooter continuing Modern Warfare. Its cinematic campaign follows special forces in an international war, alongside Special Ops and competitive multiplayer.",
+    "YearOfRelease": 2009
+  },
+  {
+    "Name": "Grand Theft Auto IV",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Publisher": "Take-Two Interactive",
+    "Description": "The story of Niko Bellic, an immigrant arriving in Liberty City seeking a new life who becomes involved with criminals and con artists. It offers a large open world with missions and activities.",
+    "YearOfRelease": 2008
+  },
+  {
+    "Name": "Super Mario All-Stars",
+    "Platform": "SNES",
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "Description": "A SNES compilation containing enhanced versions of Super Mario Bros., The Lost Levels, Super Mario Bros. 2 and Super Mario Bros. 3, with updated graphics and sound.",
+    "YearOfRelease": 1993
+  },
+  {
+    "Name": "Pokemon FireRed/Pokemon LeafGreen",
+    "Platform": "GBA",
+    "Genre": "Role-Playing",
+    "Publisher": "Nintendo",
+    "Description": "Remakes of Pokémon Red and Blue for Game Boy Advance. They revisit the Kanto adventure with updated graphics, new features and an expanded Pokédex.",
+    "YearOfRelease": 2004
+  },
+  {
+    "Name": "Super Mario 64",
+    "Platform": "DS",
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "Description": "A 3D platforming adventure in which Mario explores Peach's castle and different worlds to collect Power Stars and defeat Bowser.",
+    "YearOfRelease": 2004
+  },
+  {
+    "Name": "Just Dance 3",
+    "Platform": "Wii",
+    "Genre": "Misc",
+    "Publisher": "Ubisoft",
+    "Description": "A dance game based on following on-screen choreography while reproducing movements with the controller. It includes a broad music selection and modes designed for group play.",
+    "YearOfRelease": 2011
+  },
+  {
+    "Name": "Call of Duty: Ghosts",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "Description": "A first-person shooter set in a future where a devastated nation struggles to survive. The Ghosts special operations team fights against a superior global power.",
+    "YearOfRelease": 2013
+  },
+  {
+    "Name": "Halo: Reach",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Publisher": "Microsoft Game Studios",
+    "Description": "A first-person shooter set before Halo: Combat Evolved. Players join Noble Team and defend the planet Reach during the Covenant invasion.",
+    "YearOfRelease": 2010
+  },
+  {
+    "Name": "Mario Kart 64",
+    "Platform": "N64",
+    "Genre": "Racing",
+    "Publisher": "Nintendo",
+    "Description": "A kart racing game with tracks inspired by the Mario universe. It introduces 3D graphics, items for gaining advantages and a Battle mode alongside races and championships.",
+    "YearOfRelease": 1996
+  },
+  {
+    "Name": "New Super Mario Bros. 2",
+    "Platform": "3DS",
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "Description": "A 3DS platforming adventure focused on collecting one million coins. It includes more than 80 levels, new power-ups and cooperative and challenge modes.",
+    "YearOfRelease": 2012
+  },
+  {
+    "Name": "Halo 4",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Publisher": "Microsoft Game Studios",
+    "Description": "A first-person shooter continuing Master Chief's story. The campaign introduces new threats and an ancient civilization, alongside a full competitive multiplayer mode.",
+    "YearOfRelease": 2012
+  },
+  {
+    "Name": "Final Fantasy VII",
+    "Platform": "PS",
+    "Genre": "Role-Playing",
+    "Publisher": "Sony Computer Entertainment",
+    "Description": "An RPG following Cloud Strife and a group of allies in their fight against Shinra and the mysterious Sephiroth. It combines exploration, turn-based combat, character development and an extensive story.",
+    "YearOfRelease": 1997
+  },
+  {
+    "Name": "Call of Duty: Ghosts",
+    "Platform": "PS3",
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "Description": "A first-person shooter set in a future where a devastated nation struggles to survive. The Ghosts special operations team fights against a superior global power.",
+    "YearOfRelease": 2013
+  },
+  {
+    "Name": "Just Dance 2",
+    "Platform": "Wii",
+    "Genre": "Misc",
+    "Publisher": "Ubisoft",
+    "Description": "A dance game in which players follow on-screen choreography and movements. It features a varied song selection and modes designed for individual or group play.",
+    "YearOfRelease": 2010
+  },
+  {
+    "Name": "Gran Turismo 2",
+    "Platform": "PS",
+    "Genre": "Racing",
+    "Publisher": "Sony Computer Entertainment",
+    "Description": "A driving simulator featuring a large number of cars, tracks and events. It expands the original Gran Turismo formula with a broader competition structure.",
+    "YearOfRelease": 1999
+  },
+  {
+    "Name": "Call of Duty 4: Modern Warfare",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "Description": "A first-person shooter that moves the series into contemporary conflicts. Its campaign follows American and British soldiers during operations against terrorist threats.",
+    "YearOfRelease": 2007
+  },
+  {
+    "Name": "Donkey Kong Country",
+    "Platform": "SNES",
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "Description": "A side-scrolling platformer starring Donkey Kong and Diddy Kong. Players travel through jungles and other environments, collect bananas and defeat enemies to recover their stolen hoard.",
+    "YearOfRelease": 1994
+  },
+  {
+    "Name": "Minecraft",
+    "Platform": "X360",
+    "Genre": "Misc",
+    "Publisher": "Microsoft Game Studios",
+    "Description": "A building and survival game based on a procedurally generated world made of blocks. Players gather resources, craft tools, build structures and explore open environments.",
+    "YearOfRelease": 2013
+  },
+  {
+    "Name": "Animal Crossing: New Leaf",
+    "Platform": "3DS",
+    "Genre": "Simulation",
+    "Publisher": "Nintendo",
+    "Description": "A life simulation game for 3DS in which the player becomes mayor of an animal village. Players can build facilities, decorate their home, fish and organize activities.",
+    "YearOfRelease": 2012
+  },
+  {
+    "Name": "Mario Party DS",
+    "Platform": "DS",
+    "Genre": "Misc",
+    "Publisher": "Nintendo",
+    "Description": "A board and minigame game featuring Mario characters. Players compete for stars and coins while moving across different boards and taking part in minigames.",
+    "YearOfRelease": 2007
+  },
+  {
+    "Name": "The Elder Scrolls V: Skyrim",
+    "Platform": "X360",
+    "Genre": "Role-Playing",
+    "Publisher": "Bethesda Softworks",
+    "Description": "An open-world RPG set in the province of Skyrim. Players create a character, explore dungeons, learn skills and fight dragons while pursuing a main story or side adventures.",
+    "YearOfRelease": 2011
+  },
+  {
+    "Name": "Super Mario Kart",
+    "Platform": "SNES",
+    "Genre": "Racing",
+    "Publisher": "Nintendo",
+    "Description": "The first game in the Mario Kart series. It combines kart racing with items and obstacles that can be used to attack or defend. It features Mario characters and several competitive modes.",
+    "YearOfRelease": 1992
+  },
+  {
+    "Name": "FIFA 16",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Publisher": "Electronic Arts",
+    "Description": "A football simulation featuring licensed teams, players and competitions. It improves gameplay and, for the first time in the main series, includes women's national teams.",
+    "YearOfRelease": 2015
+  },
+  {
+    "Name": "Wii Party",
+    "Platform": "Wii",
+    "Genre": "Misc",
+    "Publisher": "Nintendo",
+    "Description": "A collection of minigames and party modes for Wii. It uses motion controls and supports competitive and cooperative activities designed for groups.",
+    "YearOfRelease": 2010
+  },
+  {
+    "Name": "Halo 2",
+    "Platform": "XB",
+    "Genre": "Shooter",
+    "Publisher": "Microsoft Game Studios",
+    "Description": "A first-person shooter continuing the fight between humanity and the Covenant. Players control Master Chief and the Arbiter in a campaign told from two perspectives.",
+    "YearOfRelease": 2004
+  },
+  {
+    "Name": "Mario Party 8",
+    "Platform": "Wii",
+    "Genre": "Misc",
+    "Publisher": "Nintendo",
+    "Description": "A Wii board game and minigame collection. Players compete for stars while moving across different boards and taking part in challenges that use motion controls.",
+    "YearOfRelease": 2007
+  },
+  {
+    "Name": "Pokemon Black 2/Pokemon White 2",
+    "Platform": "DS",
+    "Genre": "Role-Playing",
+    "Publisher": "Nintendo",
+    "Description": "Sequels to Pokémon Black and White set in Unova two years later. They introduce a new story, additional areas, characters and a wide variety of Pokémon.",
+    "YearOfRelease": 2012
+  },
+  {
+    "Name": "FIFA Soccer 13",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Publisher": "Electronic Arts",
+    "Description": "A football simulator featuring licensed teams and players. It improves ball control, player movement and artificial intelligence while offering multiple competitive modes.",
+    "YearOfRelease": 2012
+  },
+  {
+    "Name": "The Sims 3",
+    "Platform": "PC",
+    "Genre": "Simulation",
+    "Publisher": "Electronic Arts",
+    "Description": "A life simulation game in which players create characters, build homes and manage relationships, careers and activities. Its open world allows players to explore the neighborhood without loading screens.",
+    "YearOfRelease": 2009
+  },
+  {
+    "Name": "GoldenEye 007",
+    "Platform": "N64",
+    "Genre": "Shooter",
+    "Publisher": "Nintendo",
+    "Description": "A shooter based on the James Bond film GoldenEye. It includes a spy-themed campaign with varied objectives and a multiplayer mode that became a landmark for Nintendo 64.",
+    "YearOfRelease": 1997
+  },
+  {
+    "Name": "Mario & Sonic at the Olympic Games",
+    "Platform": "Wii",
+    "Genre": "Sports",
+    "Publisher": "Sega",
+    "Description": "A sports game bringing Mario and Sonic characters together in Olympic events. It includes athletics, swimming, gymnastics and other competitions for solo or group play.",
+    "YearOfRelease": 2007
+  },
+  {
+    "Name": "Final Fantasy VIII",
+    "Platform": "PS",
+    "Genre": "Role-Playing",
+    "Publisher": "SquareSoft",
+    "Description": "An RPG following Squall Leonhart and a group of SeeD soldiers caught in an international conflict. It combines combat, summons, character development and a story involving time and relationships.",
+    "YearOfRelease": 1999
+  },
+  {
+    "Name": "Pokémon Platinum Version",
+    "Platform": "DS",
+    "Genre": "Role-Playing",
+    "Publisher": "Nintendo",
+    "Description": "An expanded version of Pokémon Diamond and Pearl. Players explore Sinnoh and confront Team Galactic while discovering new areas, characters and content centered on Giratina.",
+    "YearOfRelease": 2008
+  },
+  {
+    "Name": "Pac-Man",
+    "Platform": "2600",
+    "Genre": "Puzzle",
+    "Publisher": "Atari",
+    "Description": "A classic arcade game in which Pac-Man navigates mazes, eats dots and fruit, and avoids ghosts. Power pellets temporarily allow him to chase and eat the ghosts.",
+    "YearOfRelease": 1982
+  },
+  {
+    "Name": "Grand Theft Auto: Liberty City Stories",
+    "Platform": "PSP",
+    "Genre": "Action",
+    "Publisher": "Take-Two Interactive",
+    "Description": "An action game set in Liberty City. Toni Cipriani returns to the city to work for the Leone crime family and rise through its criminal hierarchy.",
+    "YearOfRelease": 2005
+  },
+  {
+    "Name": "Super Mario Galaxy 2",
+    "Platform": "Wii",
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "Description": "A 3D platforming adventure that expands the Galaxy formula with new galaxies, power-ups and levels. Mario travels through space again and receives help from Yoshi.",
+    "YearOfRelease": 2010
+  },
+  {
+    "Name": "Star Wars Battlefront (2015)",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Publisher": "Electronic Arts",
+    "Description": "An action shooter set in the Star Wars universe. Players fight across locations inspired by the films using familiar heroes, vehicles, weapons and large multiplayer battles.",
+    "YearOfRelease": 2015
+  },
+  {
+    "Name": "Call of Duty: Advanced Warfare",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "Description": "A futuristic first-person shooter depicting warfare transformed by advanced technology and exoskeletons. The campaign follows a soldier working for a private military company.",
+    "YearOfRelease": 2014
+  },
+  {
+    "Name": "The Legend of Zelda: Ocarina of Time",
+    "Platform": "N64",
+    "Genre": "Action",
+    "Publisher": "Nintendo",
+    "Description": "An action-adventure game in which Link explores Hyrule and travels through time to stop Ganondorf. It combines combat, dungeons, puzzles, exploration and the Ocarina of Time.",
+    "YearOfRelease": 1998
+  },
+  {
+    "Name": "Crash Bandicoot 2: Cortex Strikes Back",
+    "Platform": "PS",
+    "Genre": "Platform",
+    "Publisher": "Sony Computer Entertainment",
+    "Description": "A platformer starring Crash Bandicoot, who travels across islands to collect crystals while Doctor Cortex manipulates him into helping save the world.",
+    "YearOfRelease": 1997
+  },
+  {
+    "Name": "Super Mario Bros. 2",
+    "Platform": "NES",
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "Description": "A platforming adventure set in Subcon. Mario, Luigi, Peach and Toad have different abilities and must defeat Wart using objects, vegetables and different routes.",
+    "YearOfRelease": 1988
+  },
+  {
+    "Name": "Super Smash Bros. for Wii U and 3DS",
+    "Platform": "3DS",
+    "Genre": "Fighting",
+    "Publisher": "Nintendo",
+    "Description": "A crossover fighting game featuring Nintendo characters and fighters from other franchises. It combines fast combat, interactive stages, items and numerous modes for one or more players.",
+    "YearOfRelease": 2014
+  },
+  {
+    "Name": "Call of Duty: World at War",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "Description": "A first-person shooter set during World War II. It features campaigns in the Pacific and Europe, intense combat, cooperative gameplay and a Zombies mode.",
+    "YearOfRelease": 2008
+  },
+  {
+    "Name": "Battlefield 3",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Publisher": "Electronic Arts",
+    "Description": "A first-person military shooter focused on large battles and destructible environments. It includes a campaign and multiplayer with vehicles, specialized classes and a broad arsenal.",
+    "YearOfRelease": 2011
+  },
+  {
+    "Name": "The Legend of Zelda: Twilight Princess",
+    "Platform": "Wii",
+    "Genre": "Action",
+    "Publisher": "Nintendo",
+    "Description": "An action-adventure game in which Link must stop a dark force invading Hyrule. In the Twilight Realm he transforms into a wolf and receives help from Midna.",
+    "YearOfRelease": 2006
+  },
+  {
+    "Name": "Call of Duty: Black Ops 3",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "Description": "A futuristic first-person shooter set during a technologically advanced conflict. It includes a cooperative campaign, competitive multiplayer and a dedicated Zombies mode.",
+    "YearOfRelease": 2015
+  },
+  {
+    "Name": "Just Dance",
+    "Platform": "Wii",
+    "Genre": "Misc",
+    "Publisher": "Ubisoft",
+    "Description": "A dance game in which players follow choreography displayed on screen. The goal is to reproduce movements to popular songs and earn the highest possible score.",
+    "YearOfRelease": 2009
+  },
+  {
+    "Name": "Battlefield 3",
+    "Platform": "PS3",
+    "Genre": "Shooter",
+    "Publisher": "Electronic Arts",
+    "Description": "A first-person military shooter focused on large battles and destructible environments. It includes a campaign and multiplayer with vehicles, specialized classes and a broad arsenal.",
+    "YearOfRelease": 2011
+  },
+  {
+    "Name": "Tekken 3",
+    "Platform": "PS",
+    "Genre": "Fighting",
+    "Publisher": "Sony Computer Entertainment",
+    "Description": "A one-on-one fighting game featuring a large cast of characters. Fights combine strikes, throws and special moves across different arenas in one of the series' most influential entries.",
+    "YearOfRelease": 1998
+  },
+  {
+    "Name": "Crash Bandicoot 3: Warped",
+    "Platform": "PS",
+    "Genre": "Platform",
+    "Publisher": "Sony Computer Entertainment",
+    "Description": "A platformer in which Crash travels through different time periods to collect crystals and fight enemies. It adds new moves, vehicles and stages with varied gameplay styles.",
+    "YearOfRelease": 1998
+  },
+  {
+    "Name": "Super Smash Bros. Melee",
+    "Platform": "GC",
+    "Genre": "Fighting",
+    "Publisher": "Nintendo",
+    "Description": "A crossover fighting game for GameCube featuring Nintendo characters. It is known for its percentage-based combat system, numerous stages and competitive modes.",
+    "YearOfRelease": 2001
+  },
+  {
+    "Name": "Mario Kart 8",
+    "Platform": "WiiU",
+    "Genre": "Racing",
+    "Publisher": "Nintendo",
+    "Description": "A kart racing game featuring Nintendo characters and tracks with anti-gravity sections. It includes local and online modes, numerous vehicles and a wide variety of items.",
+    "YearOfRelease": 2014
+  },
+  {
+    "Name": "Fallout 4",
+    "Platform": "PS4",
+    "Genre": "Role-Playing",
+    "Publisher": "Bethesda Softworks",
+    "Description": "An open-world RPG set in a post-apocalyptic Boston. Players explore the wasteland, build settlements, modify weapons and armor, and make choices affecting different factions.",
+    "YearOfRelease": 2015
+  },
+  {
+    "Name": "Mario Kart: Double Dash!!",
+    "Platform": "GC",
+    "Genre": "Racing",
+    "Publisher": "Nintendo",
+    "Description": "A GameCube kart racing game featuring two characters per kart: one drives while the other uses items. It includes Mario characters, varied tracks and several multiplayer modes.",
+    "YearOfRelease": 2003
+  },
+  {
+    "Name": "Uncharted 3: Drake's Deception",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Publisher": "Sony Computer Entertainment",
+    "Description": "An action-adventure game starring Nathan Drake, who searches for a lost city while facing mercenaries and uncovering secrets connected to his past.",
+    "YearOfRelease": 2011
+  },
+  {
+    "Name": "Crash Bandicoot",
+    "Platform": "PS",
+    "Genre": "Platform",
+    "Publisher": "Sony Computer Entertainment",
+    "Description": "A platformer starring Crash, who travels across islands filled with enemies, traps and crates while trying to stop Doctor Neo Cortex and rescue his sister Coco.",
+    "YearOfRelease": 1996
+  },
+  {
+    "Name": "Zumba Fitness",
+    "Platform": "Wii",
+    "Genre": "Sports",
+    "Publisher": "505 Games",
+    "Description": "An exercise game based on Zumba routines. Players follow dance movements and choreography to complete workouts and improve their performance.",
+    "YearOfRelease": 2010
+  },
+  {
+    "Name": "Gears of War 2",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Publisher": "Microsoft Game Studios",
+    "Description": "A third-person shooter continuing the war between humans and the Locust. Marcus Fenix and Delta Squad fight through intense battles using cover, heavy weapons and team tactics.",
+    "YearOfRelease": 2008
+  },
+  {
+    "Name": "Uncharted 2: Among Thieves",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Publisher": "Sony Computer Entertainment",
+    "Description": "An action-adventure game in which Nathan Drake searches for the mythical city of Shambhala. It combines exploration, platforming, puzzles and combat against mercenaries.",
+    "YearOfRelease": 2009
+  },
+  {
+    "Name": "Call of Duty 4: Modern Warfare",
+    "Platform": "PS3",
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "Description": "A first-person shooter that moves the series into contemporary conflicts. Its campaign follows American and British soldiers during operations against terrorist threats.",
+    "YearOfRelease": 2007
+  },
+  {
+    "Name": "FIFA 12",
+    "Platform": "PS3",
+    "Genre": "Sports",
+    "Publisher": "Electronic Arts",
+    "Description": "A football simulator featuring licensed teams and players. It introduces improvements to the impact engine, defending and dribbling, along with multiple competitions and modes.",
+    "YearOfRelease": 2011
+  },
+  {
+    "Name": "Big Brain Academy",
+    "Platform": "DS",
+    "Genre": "Misc",
+    "Publisher": "Nintendo",
+    "Description": "A collection of logic, memory, calculation and analysis tests for Nintendo DS. Players complete short exercises and receive scores based on their performance.",
+    "YearOfRelease": 2005
+  },
+  {
+    "Name": "Red Dead Redemption",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Publisher": "Take-Two Interactive",
+    "Description": "An open-world western starring John Marston, a former outlaw forced to hunt members of his old gang. It combines exploration, gunfights, missions and activities across the American frontier.",
+    "YearOfRelease": 2010
+  },
+  {
+    "Name": "FIFA 15",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Publisher": "Electronic Arts",
+    "Description": "A football simulator featuring licensed squads and competitions. It improves player emotions, ball physics and match presentation for a more dynamic football experience.",
+    "YearOfRelease": 2014
+  },
+  {
+    "Name": "Donkey Kong Country Returns",
+    "Platform": "Wii",
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "Description": "A platformer starring Donkey Kong and Diddy Kong. They travel through jungles, mines and other environments to recover their banana hoard using jumps, barrels and attacks.",
+    "YearOfRelease": 2010
+  },
+  {
+    "Name": "The Elder Scrolls V: Skyrim",
+    "Platform": "PS3",
+    "Genre": "Role-Playing",
+    "Publisher": "Bethesda Softworks",
+    "Description": "An open-world RPG set in the province of Skyrim. Players create a character, explore dungeons, learn skills and fight dragons while pursuing a main story or side adventures.",
+    "YearOfRelease": 2011
+  },
+  {
+    "Name": "The Legend of Zelda",
+    "Platform": "NES",
+    "Genre": "Action",
+    "Publisher": "Nintendo",
+    "Description": "A classic adventure in which Link explores Hyrule to recover pieces of the Triforce and defeat Ganon. It combines exploration, dungeons, combat and puzzle solving.",
+    "YearOfRelease": 1986
+  },
+  {
+    "Name": "Assassin's Creed III",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Publisher": "Ubisoft",
+    "Description": "An action-adventure game set during the American Revolution. Assassin Connor confronts the Templars while exploring cities and wilderness and taking part in historical events.",
+    "YearOfRelease": 2012
+  },
+  {
+    "Name": "Halo: Combat Evolved",
+    "Platform": "XB",
+    "Genre": "Shooter",
+    "Publisher": "Microsoft Game Studios",
+    "Description": "A first-person shooter introducing Master Chief and the conflict between humanity and the Covenant. Players explore the mysterious Halo while fighting alien forces.",
+    "YearOfRelease": 2001
+  },
+  {
+    "Name": "Pokémon Emerald Version",
+    "Platform": "GBA",
+    "Genre": "Role-Playing",
+    "Publisher": "Nintendo",
+    "Description": "An expanded version of Pokémon Ruby and Sapphire set in Hoenn. It adds content and characters while placing the legendary Rayquaza at the center of part of the story.",
+    "YearOfRelease": 2004
+  },
+  {
+    "Name": "Pokémon Crystal Version",
+    "Platform": "GB",
+    "Genre": "Role-Playing",
+    "Publisher": "Nintendo",
+    "Description": "An enhanced version of Pokémon Gold and Silver. Set in Johto, it adds a story involving Suicune, Pokémon animations and the option to choose the player's gender.",
+    "YearOfRelease": 2000
+  },
+  {
+    "Name": "Halo 3: ODST",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Publisher": "Microsoft Game Studios",
+    "Description": "A shooter set during the events of Halo 2. Players control an ODST soldier searching for teammates in a devastated New Mombasa after the Covenant attack.",
+    "YearOfRelease": 2009
+  },
+  {
+    "Name": "Red Dead Redemption",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Publisher": "Take-Two Interactive",
+    "Description": "An open-world western starring John Marston, a former outlaw forced to hunt members of his old gang. It combines exploration, gunfights, missions and activities across the American frontier.",
+    "YearOfRelease": 2010
+  },
+  {
+    "Name": "Super Mario Sunshine",
+    "Platform": "GC",
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "Description": "A 3D platforming adventure set on Isle Delfino. Mario uses the FLUDD device to clean graffiti, fight enemies and reach areas while collecting Shine Sprites.",
+    "YearOfRelease": 2002
+  },
+  {
+    "Name": "Street Fighter II: The World Warrior",
+    "Platform": "SNES",
+    "Genre": "Fighting",
+    "Publisher": "Capcom",
+    "Description": "An arcade fighting game featuring characters from different countries. Each fighter has unique attacks and abilities, and players progress through battles toward the final boss.",
+    "YearOfRelease": 1992
+  },
+  {
+    "Name": "World of Warcraft",
+    "Platform": "PC",
+    "Genre": "Role-Playing",
+    "Publisher": "Activision",
+    "Description": "An MMORPG set in the Warcraft universe. Players create characters, explore Azeroth, complete quests, fight creatures and other players, and participate in cooperative content.",
+    "YearOfRelease": 2004
+  },
+  {
+    "Name": "Driver",
+    "Platform": "PS",
+    "Genre": "Action",
+    "Publisher": "GT Interactive",
+    "Description": "A driving and action game focused on urban pursuits. The player controls an undercover driver who completes missions while evading police and other vehicles.",
+    "YearOfRelease": 1999
+  },
+  {
+    "Name": "Kinect Sports",
+    "Platform": "X360",
+    "Genre": "Sports",
+    "Publisher": "Microsoft Game Studios",
+    "Description": "A collection of sports controlled through Kinect. It includes activities such as football, table tennis, track and field and bowling, using body movement instead of traditional controls.",
+    "YearOfRelease": 2010
+  },
+  {
+    "Name": "Gears of War 3",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Publisher": "Microsoft Game Studios",
+    "Description": "A third-person shooter concluding the original Gears of War trilogy. Marcus Fenix and his allies face a new threat while fighting for humanity's survival.",
+    "YearOfRelease": 2011
+  },
+  {
+    "Name": "Gears of War",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Publisher": "Microsoft Game Studios",
+    "Description": "A third-person shooter set during a war against the Locust. Marcus Fenix and Delta Squad use cover, weapons and team tactics to fight across devastated environments.",
+    "YearOfRelease": 2006
+  },
+  {
+    "Name": "Sonic the Hedgehog 2",
+    "Platform": "GEN",
+    "Genre": "Platform",
+    "Publisher": "Sega",
+    "Description": "A platformer starring Sonic and Tails. They race through levels at high speed, collect rings and defeat enemies while trying to stop Dr. Robotnik.",
+    "YearOfRelease": 1992
+  },
+  {
+    "Name": "Metal Gear Solid 4: Guns of the Patriots",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Publisher": "Konami Digital Entertainment",
+    "Description": "An action and stealth game starring an aging Snake. He infiltrates war zones to stop Liquid Ocelot while uncovering the conclusion to the series' central story.",
+    "YearOfRelease": 2008
+  },
+  {
+    "Name": "Metal Gear Solid",
+    "Platform": "PS",
+    "Genre": "Action",
+    "Publisher": "Konami Digital Entertainment",
+    "Description": "An action and stealth game in which Solid Snake infiltrates a nuclear facility to stop FOXHOUND. It combines infiltration, combat, exploration and a cinematic storyline.",
+    "YearOfRelease": 1998
+  },
+  {
+    "Name": "The Last of Us",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Publisher": "Sony Computer Entertainment Europe",
+    "Description": "An action-adventure game set in a world devastated by an infection. Joel escorts Ellie across the United States while facing hostile survivors and infected creatures.",
+    "YearOfRelease": 2013
+  },
+  {
+    "Name": "LittleBigPlanet",
+    "Platform": "PS3",
+    "Genre": "Platform",
+    "Publisher": "Sony Computer Entertainment",
+    "Description": "A platforming game built around creativity and construction. Players control Sackboy, complete levels and create and share stages, objects and challenges using editing tools.",
+    "YearOfRelease": 2008
+  },
+  {
+    "Name": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "Platform": "DS",
+    "Genre": "Role-Playing",
+    "Publisher": "Nintendo",
+    "Description": "An RPG for Nintendo DS featuring turn-based combat, exploration and character customization. Players create a celestial hero who helps different inhabitants while investigating a supernatural threat.",
+    "YearOfRelease": 2009
+  },
+  {
+    "Name": "LEGO Star Wars: The Complete Saga",
+    "Platform": "Wii",
+    "Genre": "Action",
+    "Publisher": "LucasArts",
+    "Description": "An action-adventure game recreating the first six Star Wars films with LEGO characters and environments. It combines platforming, combat, puzzles and humor.",
+    "YearOfRelease": 2007
+  },
+  {
+    "Name": "Resident Evil 2",
+    "Platform": "PS",
+    "Genre": "Action",
+    "Publisher": "Virgin Interactive",
+    "Description": "A survival horror game set in Raccoon City. Leon Kennedy and Claire Redfield try to survive an outbreak while exploring the police station, solving puzzles and fighting creatures.",
+    "YearOfRelease": 1998
+  },
+  {
+    "Name": "Tekken 2",
+    "Platform": "PS",
+    "Genre": "Fighting",
+    "Publisher": "Sony Computer Entertainment",
+    "Description": "A one-on-one fighting game featuring a large cast of characters. Battles combine strikes, throws and special moves across different arenas.",
+    "YearOfRelease": 1996
+  },
+  {
+    "Name": "Cooking Mama",
+    "Platform": "DS",
+    "Genre": "Simulation",
+    "Publisher": "505 Games",
+    "Description": "A Nintendo DS cooking game based on touchscreen minigames. Players chop, mix, cook and serve dishes while trying to complete each recipe step accurately.",
+    "YearOfRelease": 2006
+  },
+  {
+    "Name": "Destiny",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "Description": "An action shooter with RPG elements set in a science-fiction future. Guardians explore different worlds, complete missions, acquire equipment and take part in cooperative and competitive activities.",
+    "YearOfRelease": 2014
+  },
+  {
+    "Name": "Tetris",
+    "Platform": "NES",
+    "Genre": "Puzzle",
+    "Publisher": "Nintendo",
+    "Description": "A classic puzzle game in which players arrange pieces of different shapes to complete lines and prevent the board from filling up. The Game Boy version helped popularize the game as a handheld title.",
+    "YearOfRelease": 1988
+  },
+  {
+    "Name": "Assassin's Creed II",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Publisher": "Ubisoft",
+    "Description": "An action-adventure and stealth game starring Ezio Auditore during the Italian Renaissance. Players explore cities, perform assassinations and uncover a conspiracy involving the Templars.",
+    "YearOfRelease": 2009
+  },
+  {
+    "Name": "Super Smash Bros.",
+    "Platform": "N64",
+    "Genre": "Fighting",
+    "Publisher": "Nintendo",
+    "Description": "A Nintendo 64 crossover fighting game featuring characters such as Mario, Link, Pikachu and Kirby. Players use attacks and items to knock opponents off the stages.",
+    "YearOfRelease": 1999
+  },
+  {
+    "Name": "Assassin's Creed",
+    "Platform": "X360",
+    "Genre": "Adventure",
+    "Publisher": "Ubisoft",
+    "Description": "An action-adventure and stealth game set during the Crusades. Assassin Altaïr must eliminate targets while uncovering a conspiracy involving the Assassins and Templars.",
+    "YearOfRelease": 2007
+  },
+  {
+    "Name": "Batman: Arkham City",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Publisher": "Warner Bros. Interactive Entertainment",
+    "Description": "An action-adventure game set in a massive urban prison where Batman faces villains including the Joker and Hugo Strange. It combines combat, stealth, exploration and puzzle solving.",
+    "YearOfRelease": 2011
+  },
+  {
+    "Name": "Forza Motorsport 3",
+    "Platform": "X360",
+    "Genre": "Racing",
+    "Publisher": "Microsoft Game Studios",
+    "Description": "A driving simulator for Xbox 360 featuring hundreds of cars and tracks. It includes races, vehicle customization and options for adjusting the experience to different skill levels.",
+    "YearOfRelease": 2009
+  },
+  {
+    "Name": "Monster Hunter Freedom Unite",
+    "Platform": "PSP",
+    "Genre": "Role-Playing",
+    "Publisher": "Capcom",
+    "Description": "An action RPG for PSP focused on hunting large monsters. Players craft weapons and armor from materials gathered during hunts and can tackle missions alone or with others.",
+    "YearOfRelease": 2008
+  },
+  {
+    "Name": "Super Mario Advance",
+    "Platform": "GBA",
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "Description": "A Game Boy Advance remake of Super Mario Bros. 2 with updated graphics and audio. Players can control Mario, Luigi, Peach or Toad, each with different abilities.",
+    "YearOfRelease": 2001
+  },
+  {
+    "Name": "Mario Kart: Super Circuit",
+    "Platform": "GBA",
+    "Genre": "Racing",
+    "Publisher": "Nintendo",
+    "Description": "A kart racing game for Game Boy Advance featuring Mario characters, items, new tracks and classic tracks from Super Mario Kart.",
+    "YearOfRelease": 2001
+  },
+  {
+    "Name": "Super Mario World",
+    "Platform": "GBA",
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "Description": "A platforming adventure for SNES in which Mario explores Dinosaur Land to rescue Peach. It introduces Yoshi, new power-ups and a large map with alternative routes and secrets.",
+    "YearOfRelease": 2001
+  },
+  {
+    "Name": "Pokemon Stadium",
+    "Platform": "N64",
+    "Genre": "Strategy",
+    "Publisher": "Nintendo",
+    "Description": "A Nintendo 64 Pokémon battle game. Players assemble teams for 3D battles and take part in tournaments and minigames featuring Pokémon from the first generations.",
+    "YearOfRelease": 1999
+  },
+  {
+    "Name": "Call of Duty: World at War",
+    "Platform": "PS3",
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "Description": "A first-person shooter set during World War II. It features campaigns in the Pacific and Europe, intense combat, cooperative gameplay and a Zombies mode.",
+    "YearOfRelease": 2008
+  },
+  {
+    "Name": "Minecraft",
+    "Platform": "PS3",
+    "Genre": "Misc",
+    "Publisher": "Sony Computer Entertainment",
+    "Description": "A building and survival game based on a procedurally generated world made of blocks. Players gather resources, craft tools, build structures and explore open environments.",
+    "YearOfRelease": 2014
+  },
+  {
+    "Name": "Final Fantasy XIII",
+    "Platform": "PS3",
+    "Genre": "Role-Playing",
+    "Publisher": "Square Enix",
+    "Description": "An RPG following Lightning and a group of characters marked by a supernatural destiny. The adventure combines dynamic combat, exploration and a science-fiction story.",
+    "YearOfRelease": 2009
+  },
+  {
+    "Name": "Dr. Mario",
+    "Platform": "GB",
+    "Genre": "Puzzle",
+    "Publisher": "Nintendo",
+    "Description": "A puzzle game in which players use colored capsules to eliminate viruses by forming groups of four matching elements. The game ends when all viruses are cleared or the bottle fills up.",
+    "YearOfRelease": 1989
+  },
+  {
+    "Name": "Pokemon Pinball",
+    "Platform": "GB",
+    "Genre": "Misc",
+    "Publisher": "Nintendo",
+    "Description": "A Pokémon-themed pinball game in which players catch creatures while playing on themed tables. It combines pinball mechanics with Pokémon exploration and collection.",
+    "YearOfRelease": 1999
+  },
+  {
+    "Name": "Assassin's Creed III",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Publisher": "Ubisoft",
+    "Description": "An action-adventure game set during the American Revolution. Assassin Connor confronts the Templars while exploring cities and wilderness and taking part in historical events.",
+    "YearOfRelease": 2012
+  },
+  {
+    "Name": "Final Fantasy IX",
+    "Platform": "PS",
+    "Genre": "Role-Playing",
+    "Publisher": "SquareSoft",
+    "Description": "An RPG following Zidane and a group of characters whose adventure begins as a kidnapping and grows into a larger conflict. It returns to classic series elements and turn-based combat.",
+    "YearOfRelease": 2000
+  },
+  {
+    "Name": "Donkey Kong 64",
+    "Platform": "N64",
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "Description": "A 3D platforming adventure starring Donkey Kong and his allies. Characters explore an island, solve challenges and collect items while fighting King K. Rool.",
+    "YearOfRelease": 1999
+  },
+  {
+    "Name": "Assassin's Creed II",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Publisher": "Ubisoft",
+    "Description": "An action-adventure and stealth game starring Ezio Auditore during the Italian Renaissance. Players explore cities, perform assassinations and uncover a conspiracy involving the Templars.",
+    "YearOfRelease": 2009
+  },
+  {
+    "Name": "Professor Layton and the Curious Village",
+    "Platform": "DS",
+    "Genre": "Puzzle",
+    "Publisher": "Nintendo",
+    "Description": "A puzzle adventure for Nintendo DS starring Professor Layton and Luke. They investigate a mystery in a village while solving numerous logic and brain-teasing puzzles.",
+    "YearOfRelease": 2007
+  },
+  {
+    "Name": "Tomb Raider II",
+    "Platform": "PS",
+    "Genre": "Action",
+    "Publisher": "Eidos Interactive",
+    "Description": "An action-adventure game starring Lara Croft, who travels across several countries in search of the Dagger of Xian. It combines exploration, platforming, puzzles and combat.",
+    "YearOfRelease": 1997
+  },
+  {
+    "Name": "Diablo III",
+    "Platform": "PC",
+    "Genre": "Role-Playing",
+    "Publisher": "Activision",
+    "Description": "An action RPG set in Sanctuary. Players create characters, fight hordes of enemies, collect loot and develop abilities while facing demonic threats.",
+    "YearOfRelease": 2012
+  },
+  {
+    "Name": "Super Mario Bros. 3",
+    "Platform": "GBA",
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "Description": "A platforming adventure in which Mario and Luigi travel across several worlds to defeat Bowser and rescue Peach. It introduces suits, maps, power-ups and many secret-filled levels.",
+    "YearOfRelease": 2003
+  },
+  {
+    "Name": "FIFA Soccer 13",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Publisher": "Electronic Arts",
+    "Description": "A football simulator featuring licensed teams and players. It improves ball control, player movement and artificial intelligence while offering multiple competitive modes.",
+    "YearOfRelease": 2012
+  },
+  {
+    "Name": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "Platform": "SNES",
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "Description": "A platformer starring Diddy Kong and Dixie Kong, who travel through the Kremlings' island to rescue Donkey Kong. It adds new moves, levels and challenges.",
+    "YearOfRelease": 1995
+  },
+  {
+    "Name": "Tomodachi Life",
+    "Platform": "3DS",
+    "Genre": "Simulation",
+    "Publisher": "Nintendo",
+    "Description": "A social simulation game for Nintendo 3DS in which Miis live on an island. Players create characters, observe their relationships and take part in activities and everyday situations.",
+    "YearOfRelease": 2013
+  },
+  {
+    "Name": "Mario & Sonic at the Olympic Games",
+    "Platform": "DS",
+    "Genre": "Sports",
+    "Publisher": "Sega",
+    "Description": "A sports game bringing Mario and Sonic characters together in Olympic events. It includes athletics, swimming, gymnastics and other competitions for solo or group play.",
+    "YearOfRelease": 2008
+  },
+  {
+    "Name": "Kirby's Dream Land",
+    "Platform": "GB",
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "Description": "A platforming adventure starring Kirby. Players explore Dream Land, defeat enemies and use Kirby's abilities to recover the food stolen by King Dedede.",
+    "YearOfRelease": 1992
+  },
+  {
+    "Name": "Fable III",
+    "Platform": "X360",
+    "Genre": "Role-Playing",
+    "Publisher": "Microsoft Game Studios",
+    "Description": "An action RPG set in Albion. Players gather allies and lead a rebellion to overthrow the king, making decisions that affect the kingdom and its inhabitants.",
+    "YearOfRelease": 2010
+  },
+  {
+    "Name": "Call of Duty: Advanced Warfare",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Publisher": "Activision",
+    "Description": "A futuristic first-person shooter depicting warfare transformed by advanced technology and exoskeletons. The campaign follows a soldier working for a private military company.",
+    "YearOfRelease": 2014
+  },
+  {
+    "Name": "Microsoft Flight Simulator",
+    "Platform": "PC",
+    "Genre": "Simulation",
+    "Publisher": "Microsoft Game Studios",
+    "Description": "A flight simulator that lets players pilot different aircraft across real-world-based environments. It focuses on flight procedures, navigation and aircraft control rather than arcade-style action.",
+    "YearOfRelease": 1996
+  },
+  {
+    "Name": "Resident Evil 5",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Publisher": "Capcom",
+    "Description": "A survival horror and action game set in Africa. Chris Redfield and Sheva Alomar investigate a biological threat while fighting infected enemies and uncovering a conspiracy.",
+    "YearOfRelease": 2009
+  },
+  {
+    "Name": "Grand Theft Auto V",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Publisher": "Take-Two Interactive",
+    "Description": "An open-world action game set in Los Santos. Three protagonists become involved in robberies and criminal activities while exploring a large city and its surrounding areas.",
+    "YearOfRelease": 2014
+  },
+  {
+    "Name": "Grand Theft Auto: Vice City Stories",
+    "Platform": "PSP",
+    "Genre": "Action",
+    "Publisher": "Take-Two Interactive",
+    "Description": "An action game set in Vice City. Victor Vance becomes involved in the criminal world while building his own empire in a city inspired by 1980s Miami.",
+    "YearOfRelease": 2006
+  },
+  {
+    "Name": "FIFA Soccer 11",
+    "Platform": "PS3",
+    "Genre": "Sports",
+    "Publisher": "Electronic Arts",
+    "Description": "A football simulator featuring licensed teams and players. It includes competition modes and improvements to control, movement and artificial intelligence for more dynamic matches.",
+    "YearOfRelease": 2010
+  },
+  {
+    "Name": "Super Mario Bros.",
+    "Platform": "GB",
+    "Genre": "Platform",
+    "Publisher": "Nintendo",
+    "Description": "Mario and Luigi travel through the Mushroom Kingdom, jumping across platforms, avoiding enemies and overcoming obstacles to rescue Princess Peach from Bowser.",
+    "YearOfRelease": 1999
+  },
+  {
+    "Name": "Resident Evil",
+    "Platform": "PS",
+    "Genre": "Action",
+    "Publisher": "Virgin Interactive",
+    "Description": "A survival horror game in which a team of agents investigates an isolated mansion and discovers biological experiments. Players explore, solve puzzles, manage resources and fight creatures.",
+    "YearOfRelease": 1996
+  },
+  {
+    "Name": "Tony Hawk's Pro Skater",
+    "Platform": "PS",
+    "Genre": "Sports",
+    "Publisher": "Activision",
+    "Description": "A skateboarding game focused on performing tricks, completing objectives and exploring skate parks. Players chain moves together to earn high scores and unlock new areas and skaters.",
+    "YearOfRelease": 1999
+  },
+  {
+    "Name": "Super Smash Bros. for Wii U and 3DS",
+    "Platform": "WiiU",
+    "Genre": "Fighting",
+    "Publisher": "Nintendo",
+    "Description": "A crossover fighting game featuring Nintendo characters and fighters from other franchises. It combines fast combat, interactive stages, items and numerous modes for one or more players.",
+    "YearOfRelease": 2014
+  },
+  {
+    "Name": "Warzone 2100",
+    "Platform": "PS",
+    "Genre": "Strategy",
+    "Publisher": "Eidos Interactive",
+    "Description": "A real-time strategy game set in a post-apocalyptic future. Players develop technology, build units and bases, and command military forces while attempting to rebuild civilization.",
+    "YearOfRelease": 1999
+  },
+  {
+    "Name": "Spyro the Dragon",
+    "Platform": "PS",
+    "Genre": "Platform",
+    "Publisher": "Sony Computer Entertainment",
+    "Description": "A 3D platformer starring Spyro, a young dragon who explores different worlds, rescues dragons, collects gems and defeats enemies using fire and charges.",
+    "YearOfRelease": 1998
+  },
+  {
+    "Name": "Link's Crossbow Training",
+    "Platform": "Wii",
+    "Genre": "Shooter",
+    "Publisher": "Nintendo",
+    "Description": "A Wii shooting game starring Link. Players use the Wii Zapper to practice aiming across scenarios inspired by Twilight Princess and complete score-based challenges.",
+    "YearOfRelease": 2007
+  },
+  {
+    "Name": "Fallout 3",
+    "Platform": "X360",
+    "Genre": "Role-Playing",
+    "Publisher": "Bethesda Softworks",
+    "Description": "An open-world RPG set in a post-apocalyptic Washington, D.C. Players explore the wasteland, complete quests, make choices and develop skills while searching for their father.",
+    "YearOfRelease": 2008
+  },
+  {
+    "Name": "Pokemon Mystery Dungeon: Explorers of Time/Explorers of Darkness",
+    "Platform": "DS",
+    "Genre": "Role-Playing",
+    "Publisher": "Nintendo",
+    "Description": "A dungeon-crawling RPG in which the player becomes a Pokémon. Players form a team, explore changing dungeons and uncover a story involving time travel.",
+    "YearOfRelease": 2007
+  },
+  {
+    "Name": "Uncharted: Drake's Fortune",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Publisher": "Sony Computer Entertainment",
+    "Description": "An action-adventure game starring Nathan Drake, who searches for the treasure of El Dorado. It combines exploration, platforming, shooting and puzzles in archaeological adventure settings.",
+    "YearOfRelease": 2007
+  },
+  {
+    "Name": "LEGO Star Wars: The Complete Saga",
+    "Platform": "DS",
+    "Genre": "Action",
+    "Publisher": "LucasArts",
+    "Description": "An action-adventure game recreating the first six Star Wars films with LEGO characters and environments. It combines platforming, combat, puzzles and humor.",
+    "YearOfRelease": 2007
+  },
+  {
+    "Name": "Diddy Kong Racing",
+    "Platform": "N64",
+    "Genre": "Racing",
+    "Publisher": "Nintendo",
+    "Description": "A racing game featuring Rare characters, land, water and air vehicles, and varied tracks. It includes single-player and multiplayer modes and an adventure structured around an explorable world.",
+    "YearOfRelease": 1997
+  },
+  {
+    "Name": "Monster Hunter Freedom 3",
+    "Platform": "PSP",
+    "Genre": "Role-Playing",
+    "Publisher": "Capcom",
+    "Description": "An action RPG for PSP focused on hunting monsters and crafting equipment. Players prepare weapons, study creature behavior and complete increasingly difficult missions.",
+    "YearOfRelease": 2010
+  },
+  {
+    "Name": "Dr. Mario",
+    "Platform": "NES",
+    "Genre": "Puzzle",
+    "Publisher": "Nintendo",
+    "Description": "A puzzle game in which players use colored capsules to eliminate viruses by forming groups of four matching elements. The game ends when all viruses are cleared or the bottle fills up.",
+    "YearOfRelease": 1990
+  },
+  {
+    "Name": "God of War III",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Publisher": "Sony Computer Entertainment",
+    "Description": "An action game starring Kratos during his final confrontation with the gods of Olympus. It combines intense combat, exploration, puzzles and large environments inspired by Greek mythology.",
+    "YearOfRelease": 2010
+  },
+  {
+    "Name": "StarCraft II: Wings of Liberty",
+    "Platform": "PC",
+    "Genre": "Strategy",
+    "Publisher": "Activision",
+    "Description": "A real-time strategy game set in the StarCraft universe. The campaign follows Jim Raynor and his Terran forces against the Zerg and Protoss, alongside a major multiplayer component.",
+    "YearOfRelease": 2010
+  },
+  {
+    "Name": "Assassin's Creed",
+    "Platform": "PS3",
+    "Genre": "Adventure",
+    "Publisher": "Ubisoft",
+    "Description": "An action-adventure and stealth game set during the Crusades. Assassin Altaïr must eliminate targets while uncovering a conspiracy involving the Assassins and Templars.",
+    "YearOfRelease": 2007
+  },
+  {
+    "Name": "FIFA 15",
+    "Platform": "PS3",
+    "Genre": "Sports",
+    "Publisher": "Electronic Arts",
+    "Description": "A football simulator featuring licensed squads and competitions. It improves player emotions, ball physics and match presentation for a more dynamic football experience.",
+    "YearOfRelease": 2014
+  },
+  {
+    "Name": "Crash Team Racing",
+    "Platform": "PS",
+    "Genre": "Racing",
+    "Publisher": "Sony Computer Entertainment",
+    "Description": "A kart racing game starring Crash Bandicoot characters. Tracks feature items, shortcuts and obstacles, with racing and battle modes for competitive play.",
+    "YearOfRelease": 1999
+  },
+  {
+    "Name": "FIFA 17",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Publisher": "Electronic Arts",
+    "Description": "A football simulator featuring licensed teams and players. It introduces The Journey story mode and improves animations, physics and match presentation.",
+    "YearOfRelease": 2016
+  },
+  {
+    "Name": "Batman: Arkham City",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Publisher": "Warner Bros. Interactive Entertainment",
+    "Description": "An action-adventure game set in a massive urban prison where Batman faces villains including the Joker and Hugo Strange. It combines combat, stealth, exploration and puzzle solving.",
+    "YearOfRelease": 2011
+  }
+]
