@@ -1,3 +1,4 @@
 .env
 ./starter/lib/__pycache__
 *.sqlite
+./chromadb/
